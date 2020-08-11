@@ -1,5 +1,5 @@
 {
-    "warn": {},
+    "warn": {node.js},
     "coins-utilisateurs": {
         "616264405293989905": 11
     },
